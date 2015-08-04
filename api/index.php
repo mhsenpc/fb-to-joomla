@@ -1,8 +1,8 @@
 <?php
 include_once("inc/facebook.php"); //include facebook SDK
 
-$appId = '1507227666157854'; //Facebook App ID
-$appSecret = '75bb86be5c43f76157bf698f62076c4f'; // Facebook App Secret
+$appId = ''; //Facebook App ID
+$appSecret = ''; // Facebook App Secret
 
 //Call Facebook API
 $facebook = new Facebook(array(

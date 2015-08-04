@@ -1,10 +1,10 @@
-#Facebook to wordpress
+#Facebook to Joomla
 
 #what is it?
-facebook to wordpress is an web application that integrates with wordpress and connect to its database.show facebook posts of any page that user wants and can send it immediately or scheduled to user facebook page.
+facebook to Joomla is an web application that integrates with Joomla and connect to its database.show facebook posts of any page that user wants and can send it immediately or scheduled to user facebook page.
 
 #features
-1- integrate with wordpress database
+1- integrate with Joomla database
 2- list facebook posts of any page (using opn graph api)
 3- detect user facebook pages
 4- send post immediately or scheduled or specific time
